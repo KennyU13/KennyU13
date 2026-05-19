@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Je+suis+Developpeur+Fullstack;Web+%7C+Mobile+%7C+Backend;Je+cree+des+applications+modernes;React+%7C+Vue.js+%7C+Node.js+%7C+SQL" alt="Animation texte: Je suis Developpeur Fullstack" />
+# RAKOTONDRAZANDRY Kenny Urvano
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=780&lines=Je+suis+Developpeur+Fullstack;Je+cree+des+applications+web+modernes;Web+%7C+Mobile+%7C+Backend;React+%7C+Vue.js+%7C+Node.js+%7C+SQL" alt="Animation texte: Je suis Developpeur Fullstack" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://kennyu13.github.io/portfolio-main/)
 [![GitHub](https://img.shields.io/badge/GITHUB-KennyU13-181717?style=for-the-badge&logo=github)](https://github.com/KennyU13)
