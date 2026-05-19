@@ -1,7 +1,5 @@
 <div align="center">
 
-![Kenny Urvano - Fullstack Developer](assets/github-profile-banner.svg)
-
 # RAKOTONDRAZANDRY Kenny Urvano
 
 **Developpeur Fullstack | Web | Backend | Bases de donnees**
@@ -9,32 +7,14 @@
 Je cree des applications web modernes, des interfaces propres et des backends structures.  
 Actuellement en Master Genie Logiciel et Bases de Donnees a l'Ecole Nationale d'Informatique de Fianarantsoa.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/KennyU13/portfolio-main)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://kennyu13.github.io/portfolio-main/)
 [![GitHub](https://img.shields.io/badge/GitHub-KennyU13-181717?style=for-the-badge&logo=github)](https://github.com/KennyU13)
 [![Email](https://img.shields.io/badge/Email-kennyurvano13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennyurvano13@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-034%2089%20804%2067-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/261348980467)
 
-</div>
-
----
-
-## About me
-
-```javascript
-const kenny = {
-  role: "Developpeur Fullstack",
-  location: "Fianarantsoa, Madagascar",
-  education: "Master Genie Logiciel et Bases de Donnees",
-  focus: ["Web apps", "REST APIs", "SQL databases", "Clean UI"],
-  qualities: ["Rigueur", "Travail en equipe", "Adaptabilite"],
-};
-```
-
-Je m'interesse surtout aux produits web utiles: des interfaces lisibles, des API simples a utiliser, des bases de donnees bien organisees et du code qui reste maintenable.
+[![Demo du portfolio](assets/portfolio-demo.png)](https://kennyu13.github.io/portfolio-main/)
 
 ## Languages | Frameworks & Tools
-
-<div align="center">
 
 ### Languages
 
@@ -68,15 +48,6 @@ Je m'interesse surtout aux produits web utiles: des interfaces lisibles, des API
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
-
-## Featured projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [notes-app-fullstack](https://github.com/KennyU13/notes-app-fullstack) | Application de notes avec API REST, authentification et interface React. | NestJS, React, PostgreSQL, Prisma, Docker |
-| [portfolio-main](https://github.com/KennyU13/portfolio-main) | Portfolio personnel pour presenter mon profil, mes competences et mes projets. | React, Vite, Tailwind CSS, Docker |
-| [Code-ZahIT-ENI](https://github.com/KennyU13/Code-ZahIT-ENI) | Projet web ENI realise avec Vue, JavaScript et CSS. | Vue, JavaScript, CSS |
-| [Critical-Path-Method-Manager](https://github.com/KennyU13/Critical-Path-Method-Manager) | Application autour de la methode du chemin critique. | Planning, CPM |
 
 ## GitHub stats
 
