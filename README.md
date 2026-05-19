@@ -2,9 +2,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&lines=Je+suis+Kenny+Urvano;Fullstack+Developpeur+Web+%7C+Mobile;Rigoureux+%7C+Autonome+%7C+Esprit+d'equipe;React+%7C+Vue.js+%7C+Node.js" alt="Animation texte: Je suis Kenny Urvano" />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://kennyu13.github.io/portfolio-main/)
-[![GitHub](https://img.shields.io/badge/GITHUB-KennyU13-181717?style=for-the-badge&logo=github)](https://github.com/KennyU13)
-[![Email](https://img.shields.io/badge/EMAIL-kennyurvano13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennyurvano13@gmail.com)
+<a href="https://kennyu13.github.io/portfolio-main/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+</a>
+<a href="https://github.com/KennyU13">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="mailto:kennyurvano13@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 ---
 
