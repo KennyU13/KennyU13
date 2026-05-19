@@ -2,7 +2,7 @@
 
 # RAKOTONDRAZANDRY Kenny Urvano
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Developpeur+Fullstack;Web+%7C+Backend+%7C+SQL;React+%7C+Vue.js+%7C+Node.js" alt="Animation texte: Developpeur Fullstack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&lines=Fullstack+Developpeur+Web+%7C+Mobile;Rigoureux+%7C+Autonome+%7C+Esprit+d'equipe;React+%7C+Vue.js+%7C+Node.js" alt="Animation texte: Fullstack Developpeur Web Mobile" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://kennyu13.github.io/portfolio-main/)
 [![GitHub](https://img.shields.io/badge/GITHUB-KennyU13-181717?style=for-the-badge&logo=github)](https://github.com/KennyU13)
